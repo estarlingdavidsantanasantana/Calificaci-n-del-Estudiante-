@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>primera_tarea_del_año</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\santa\OneDrive\Escritorio\Tarea que van para gitguh\TAREA DE LAS CALIFICACIONES\primera tarea del año.cs" Link="primera tarea del año.cs" />
+  </ItemGroup>
+
+</Project>
