@@ -38,7 +38,7 @@ condición académica de forma automática.
 <h2 align="center">🔗 Clonar el Repositorio</h2>
 
 <p align="center">
-  <a href="https://github.com/TU-USUARIO/TU-REPOSITORIO">
+  <a href="https://github.com/estarlingdavidsantanasantana/Calificaci-n-del-Estudiante-/tree/master">
     👉 Haz clic aquí para ver y clonar el proyecto
   </a>
 </p>
