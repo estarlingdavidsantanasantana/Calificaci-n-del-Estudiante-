@@ -23,9 +23,24 @@ condición académica de forma automática.
 <h2 align="center">🛠️ Tecnologías Utilizadas</h2>
 
 <p align="center">
+  <!-- Logo C# -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="80"/>
+
+  <!-- Logo GitHub -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80"/>
+
+  <!-- Logo .NET -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="80"/>
+</p>
+
+---
+
+<h2 align="center">🔗 Clonar el Repositorio</h2>
+
+<p align="center">
+  <a href="https://github.com/TU-USUARIO/TU-REPOSITORIO">
+    👉 Haz clic aquí para ver y clonar el proyecto
+  </a>
 </p>
 
 ---
