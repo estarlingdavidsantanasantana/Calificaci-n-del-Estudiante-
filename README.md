@@ -1,14 +1,4 @@
-<h1 align="center">
-  <span style="animation: blink 1.5s infinite;">📊 Mis Datos del Proyecto 📊</span>
-</h1>
-
-<style>
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0.3; }
-  100% { opacity: 1; }
-}
-</style>
+<h1 align="center">📊 Mis Datos del Proyecto 📊</h1>
 
 <p align="center">
   <strong>Nombre:</strong> Starling David Santana Santana.<br>
@@ -30,18 +20,17 @@ condición académica de forma automática.
 
 ---
 
-<h2>🛠️ Tecnologías Utilizadas</h2>
+<h2 align="center">🛠️ Tecnologías Utilizadas</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/combo-chart--v1.png" alt="CChart" width="80"/>
-  <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" alt="GitHub" width="80"/>
-  <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80"/>
 </p>
 
 ---
 
-<footer align="center">
-  <hr>
-  <p>Proyecto académico desarrollado por <strong>Starling David Santana Santana.</strong></p>
-  <p>© 2026 - Todos los derechos reservados</p>
-</footer>
+<p align="center">
+  <em>Proyecto académico desarrollado por Starling David Santana Santana.</em><br>
+  © 2026
+</p>
