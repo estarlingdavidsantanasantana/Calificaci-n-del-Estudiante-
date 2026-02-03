@@ -1,4 +1,4 @@
-<h1 align="center">📊 Mis Datos del Proyecto 📊</h1>
+<h1 align="center"> Mis Datos del Proyecto </h1>
 
 <p align="center">
   <strong>Nombre:</strong> Starling David Santana Santana.<br>
@@ -9,7 +9,7 @@
 
 ---
 
-<h2>📘 Sobre el Trabajo</h2>
+<h2> Sobre el Trabajo</h2>
 
 <p>
 En este trabajo se mostrarán las notas del estudiante y el estado en el que se encuentra,
@@ -20,7 +20,7 @@ condición académica de forma automática.
 
 ---
 
-<h2 align="center">🛠️ Tecnologías Utilizadas</h2>
+<h2 align="center"> Tecnologías Utilizadas</h2>
 
 <p align="center">
   <!-- Logo C# -->
@@ -39,7 +39,7 @@ condición académica de forma automática.
 
 <p align="center">
   <a href="https://github.com/estarlingdavidsantanasantana/Calificaci-n-del-Estudiante-/tree/master">
-    👉 Haz clic aquí para ver y clonar el proyecto
+      Haz clic aquí para ver y clonar el proyecto
   </a>
 </p>
 
@@ -47,5 +47,4 @@ condición académica de forma automática.
 
 <p align="center">
   <em>Proyecto académico desarrollado por Starling David Santana Santana.</em><br>
-  © 2026
 </p>
